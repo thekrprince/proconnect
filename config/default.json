@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://prince123:prince123@proconnect.6xvyi.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "6c15cec921659b04052a",
+  "githubSecret": "8e07fcc53b3f78375db33adacb12ae5a896c5f63"
 }
