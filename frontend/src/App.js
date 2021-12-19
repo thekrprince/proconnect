@@ -1,10 +1,14 @@
 import './App.css';
+import NavBar from './components/layout/NavBar';
+import Landing from './components/layout/Landing';
+import { Fragment } from 'react';
 
 function App() {
   return (
-    <div className="App">
-      <h1>App</h1>
-    </div>
+    <Fragment>
+      <NavBar />
+      <Landing />
+    </Fragment>
   );
 }
 
